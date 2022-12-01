@@ -77,7 +77,7 @@ This project was one of my crowning achievements and one of the best opportuniti
 
 I created a radar chart to plot the average monthly rainfall and snowfall by inches in Ann Arbor and compared to the two most populous cities in Michigan (Detroit and Grand Rapids). I’ve also interlaid a line graph of the precipitation among the counties which each city belongs to in order to draw further comparison among the three regions. Even though the locations were nearby each other, the visuals revealed that there were noticeable variations in weather among the locations. 
 
-This project was definitely one of the hardest assignments I faced throughout the specialization. Despite the challenges I faced, it was one of the most rewarding assignments because I had a chance to design my very own project. It was also my first opportunity to apply a radio button in data analysis :)
+This project was definitely one of the hardest assignments I faced throughout the specialization. Despite the challenges I faced, it was one of the most rewarding assignments because I had a chance to design my very own project. It was also my first opportunity to create radio buttons in Python.
 
 <br />
 
