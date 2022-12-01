@@ -13,9 +13,10 @@ Overall, this specialization has helped me have a better understanding of the to
 My work for each course can be found in the following repository. Each course contains its own background description, along with my code and data used to complete each assignment. 
 
 # Course 1 - Introduction to Data Science in Python: 
+
 	This course dived into fundamental Python libraries to clean and manipulate data as a data scientist. The course began with an introduction to basic techniques, including lambdas and list comprehensions, reading and writing csv files, and querying data frames. Python’s NumPy and Pandas libraries were heavily used in this course, in addition to Python’s Datetime and SciPy libraries. I also learned about handy functions, like Map and Lambda, in addition to list comprehension. 
 
-### *Course 1 Assignments*
+## *Course 1 Assignments*
 
 ### Assignment #1 - Pandas Introduction: 
 
@@ -26,17 +27,18 @@ As the first coding assignment in the specialization, this assignment concentrat
 This was the first taste of reading documentation in the course to discover functions and methods in the Pandas library that were not previously taught in lecture. This assignment involved reducing and processing data, using functions like Apply and Groupby. I also gained experience with Datetime objects and merging datasets using joins. 
 
 
-### *Course 1 Project*
+## *Course 1 Project*
 
 ### Project - Hypothesis Testing: 
 This final project combined all of the basic Python skills into one project, where I had to clean and process the data from start to finish, on university housing data. Then, I performed hypothesis testing with the Student’s t-test and used Pearson’s p-value to evaluate whether or not there was a significant difference in housing costs between university and non-university towns. This project was fascinating to me, since I had a chance to investigate problems, like the rising cost of living, that affect people every day. 
 
 
 # Course 2 - Applied Plotting, Charting & Data Representation in Python:
+
 	This course focused on data visualization in Python, using the Matplotlib library. The course began with an introduction to Alberto Cairo’s Graphic Lies, Misleading Visuals. From this reading, I learned about how to create truthful visuals that do not distort a viewers’ perspective of the data.  I also discovered how our biases can distort the data we present to others, including displaying excess or hiding data. To avoid this, I was encouraged to make simple visuals without “chart junk,” as Cairo phrases it, and to only display relevant data so the viewer can understand the graphic without being distracted by superfluous details. 
 	With these principles in mind, the remainder of the course centered on plotting libraries - Matplotlib and Seaborn. 
 
-### *Course 2 Assignments*
+## *Course 2 Assignments*
 
 ### Assignment #1 - Plotting Weather Patterns: 
 
@@ -48,7 +50,7 @@ Since barcharts in Matplotlib are notoriously tedious, this project challenged m
 	The interactive bar-chart was one of my favorite assignments in this course. Many of the graphs throughout the course are static. This bar chart, however, is dynamic and can be updated in near real time based on a user’s mouse click. It was fun to create a visual where users can decide which data will be displayed. 
 
 
-### *Course 2 Project*
+## *Course 2 Project*
 This file is separated into two projects - the optional project and the final project:
 
 ### Optional Project - Understanding Distributions through Sampling: 
@@ -65,9 +67,10 @@ This project was definitely one of the hardest assignments I faced throughout th
 
 
 # Course 3 - Applied Machine Learning in Python:
+
 	After completing Python basics into cleaning and visualizing data, this third course focused on a new way to analyze data: machine learning. Using the Scikit-learn library, the course began with an introduction to supervised vs. unsupervised learning, before exploring basic ML classifiers. The course introduced classifiers, such as k-nearest neighbor (KNN),  Support Vector Machines (SVM), and Decision Trees. Next, the course explored optimizing model performance and using difference evaluation metrics to assess a classifier’s performance, before concluding with a final project.
 
-### *Course 3 Assignments*
+## *Course 3 Assignments*
 
 ### Assignment #1 - Introduction to Machine Learning: 
 This assignment was an introduction to Scikit-learn fundamentals, using the Breast Cancer Wisconsin Diagnostic Database. I learned how to extract features and create training and testing data for a K-nearest neighbor classifier. My final model predicted the probability that a patient’s tumor was malignant or benign, to aid breast cancer diagnosis.
@@ -78,15 +81,16 @@ This assignment explored more complex tasks in supervised machine learning, comp
 ### Assignment #3 - Evaluation: 
 This assignment involved optimizing the performance of machine learning models to predict credit card fraud, using data collected from Kaggle. I even created a confusion matrix to assess the performance of my Support Vector Classifier (SVC). I also used different evaluation metrics - including accuracy, precision-recall, and an ROC Curve - to evaluate a Logistic Regression Classifier I optimized via cross-validation.
 
-### *Course 3 Project*
+## *Course 3 Project*
 
 Final Project - Understanding and Predicting Property Maintenance Fines: As the course’s final project, I used data from Detroit Open Data Portal to predict the probability that residents will pay their blight tickets on time. Since this project involved numerous categorical variables, I found one-hot encoding extremely helpful in preparing my data for classification. I also imputed missing data and used feature reduction to account for the additional dummy variables in order to reduce the complexity of my Random Forest classifier.
 
 
 # Course 4 - Applied Text Mining in Python:
+
 	This course concentrated on working with raw text in Python, using regular expressions (RegEx) and the NLTK library to perform Natural Language Processing (NLP). While textual data is notoriously messy, this course provided me with a strong foundation to tackle text mining. I learned how to tokenize raw text, extract meaningful information - including parts of speech and topic distribution, and even employ machine learning techniques to build classifiers and spelling recommendation systems. I also learned how to clean data, including removing stop-words, lemmatization, and stemming words with similar word derivations, in order to build robust, complex text models.
 
-### *Course 4 Assignments*
+## *Course 4 Assignments*
 
 ### Assignment #1 - Working with Text: 
 
@@ -101,15 +105,16 @@ Overall, I gained confidence in my abilities to extract textual information. I w
 
 This assignment combined text-mining concepts from the previous weeks with machine learning techniques from the previous course.  I created Countvectorizers and Tfidfvectorizers to turn training text into a tokenized number of words, digits, and remaining Ascii characters. I also created several classifiers - Multinomial Naive Bayes, Support Vector Classifier (SVC), and Logistic Regression - to determine whether a text message was spam or not.
 
-### *Course 4 Project*
+## *Course 4 Project*
 
 Final Project - Document Similarity and Topic Modeling: For the course’s finale, I computed the similarity of text documents. I also created topic distributions, using Genism’s LDA (Latent Dirichlet Allocation). This project challenged me to navigate the NLTK Corpus package which I previously had not explored during the course. 
 
 
 # Course 5 - Applied Social Network Analysis in Python:
+
 	As the final component in the specialization, this course challenged me to use all of the fundamentals I learned in the previous courses to pursue social network analysis. Before diving into coding, this course taught me the fundamentals of social networks, including basic graphs and how to extract information from specific pairs of nodes and edges. For coding, Python’s NetworkX library was instrumental in creating and dissecting social networks. I learned how to analyze the connectivity of nodes, and even measure how pivotal specific nodes are within a social network. The course culminated with a machine learning project applied to employee salary and relationship social networks.
 
-### *Course 5 Assignments*
+## *Course 5 Assignments*
 
 ### Assignment #1 - Creating and Manipulating Graphs: 
 After learning about different social networks (such as directed, undirected, weighted, and signed graphs), this assignment challenged me to put my understanding of the basics to the test. I explored a Bipartite graph to access nodes and degrees from an employee social network. Afterwards, I analyzed a Multigraph on employees’ favorite movies to uncover whether or not colleagues with higher relationship scores would possess similar movie preferences as one another. 
@@ -119,7 +124,7 @@ As the next challenge within the course, I analyzed the connectivity within an e
 
 Assignment #3 - Network Centrality: While the last assignment taught me how to evaluate the connectivity between nodes and edges, this assignment showed me how to measure the importance of certain nodes and edges within a social network. I used centrality measures (degree, closeness, and betweenness) to analyze a friendship and blog network. I also learned another measure for ranking nodes - the HITS Algorithm (hubs and authority). In sum, I gained a solid grasp of algorithms commonly employed in search engines. 
 
-### *Course 5 Project*
+## *Course 5 Project*
 
 ### Final Project - Link Prediction: 
 
