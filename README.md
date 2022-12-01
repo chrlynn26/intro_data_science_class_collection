@@ -1,17 +1,24 @@
 The following repository is a collection of my work for the *Applied Data Science with Python* specialization, offered by the University of Michigan on Coursera. This specialization has been a thorough guide on how to clean, manipulate, and visualize data in Python and even provided a thorough background for machine learning concepts and applications. This specialization consisted of the following five courses:
 
+<br />
+
 * **Introduction to Data Science in Python**
 * **Applied Plotting, Charting & Data Representation in Python**
 * **Applied Machine Learning in Python**
 * **Applied Text Mining in Python**
 * **Applied Social Network Analysis in Python**
 
+<br />
+
 Each course included coding assignments that helped me gain a better understanding of fundamental data science libraries. In some cases, these assignments involved retrieving and analyzing data to answer a series of detailed questions. In other cases, these assignments served as mini-projects. For all files, I have rewritten some of the background information and questions in order to improve clarity and readability. 
-Each course culminated with a final project. In some cases, an optional project was offered by the course; I’ve included these within a projects file per course. These projects were a hands-off opportunity for me to put all my new skills to the test and even perform data analysis on real-life data. The coding assignments and projects are located in the main project folder. The data is located within the “data” folder, and then under “course_#” (where “#” represents course number “1”, “2”, “3”, “4”, or “5”). For instance, the data files for Applied Machine Learning in Python are located under data/course_3. 
+
+Each course culminated with a final project. In some cases, an optional project was offered by the course; I’ve included these within a project file per course. These projects were a hands-off opportunity for me to put all my new skills to the test and even perform data analysis on real-life data. The coding assignments and projects are located in the main project folder. The data is located within the “data” folder, and then under “course_#” (where “#” represents course number “1”, “2”, “3”, “4”, or “5”). For instance, the data files for Applied Machine Learning in Python are located under data/course_3. 
 
 Overall, this specialization has helped me have a better understanding of the tools and critical analysis that are pivotal for mastering my skills as a data scientist. I have also gained a deeper appreciation for the data science field in general and discovered how many of the challenges that I’ve encountered during this specialization were often solved by thinking outside the box. 
 
 My work for each course can be found in the following repository. Each course contains its own background description, along with my code and data used to complete each assignment. 
+
+<br /> 
 
 # Course 1 - Introduction to Data Science in Python: 
 
@@ -33,6 +40,7 @@ This was the first taste of reading documentation in the course to discover func
 ### Project - Hypothesis Testing: 
 This final project combined all of the basic Python skills into one project, where I had to clean and process the data from start to finish, on university housing data. Then, I performed hypothesis testing with the Student’s t-test and used Pearson’s p-value to evaluate whether or not there was a significant difference in housing costs between university and non-university towns. This project was fascinating to me, since I had a chance to investigate problems, like the rising cost of living, that affect people every day. 
 
+<br />
 
 # Course 2 - Applied Plotting, Charting & Data Representation in Python:
 
@@ -71,6 +79,7 @@ I created a radar chart to plot the average monthly rainfall and snowfall by inc
 
 This project was definitely one of the hardest assignments I faced throughout the specialization. Despite the challenges I faced, it was one of the most rewarding assignments because I had a chance to design my very own project. It was also my first opportunity to apply a radio button in data analysis :)
 
+<br />
 
 # Course 3 - Applied Machine Learning in Python:
 
@@ -91,6 +100,7 @@ This assignment involved optimizing the performance of machine learning models t
 
 Final Project - Understanding and Predicting Property Maintenance Fines: As the course’s final project, I used data from Detroit Open Data Portal to predict the probability that residents will pay their blight tickets on time. Since this project involved numerous categorical variables, I found one-hot encoding extremely helpful in preparing my data for classification. I also imputed missing data and used feature reduction to account for the additional dummy variables in order to reduce the complexity of my Random Forest classifier.
 
+<br />
 
 # Course 4 - Applied Text Mining in Python:
 
@@ -115,6 +125,7 @@ This assignment combined text-mining concepts from the previous weeks with machi
 
 Final Project - Document Similarity and Topic Modeling: For the course’s finale, I computed the similarity of text documents. I also created topic distributions, using Genism’s LDA (Latent Dirichlet Allocation). This project challenged me to navigate the NLTK Corpus package which I previously had not explored during the course. 
 
+<br />
 
 # Course 5 - Applied Social Network Analysis in Python:
 
@@ -140,6 +151,7 @@ After building up my knowledge of degree distributions, I was ready to analyze a
 
 After isolating node pairs without a connection, I used a Gradient Boosting Tree to predict how likely colleagues would share a future connection together. This final project challenged me to apply machine learning concepts to social networks I would likely encounter in the real-world.
 
+<br />
 
 In conclusion, this specialization helped me master data science fundamentals, from data cleaning to visualizing complex social network graphs - while further igniting my enthusiasm for data science. I learned more ways to make my data interactive, with graphs users can click on and decide the data they want to see displayed. I gained a greater understanding of how data science can help find answers to many problems we encounter in the world around us- whether it’s cancer research (as I investigated in the machine learning course) or understanding how new relationships can blossom (as seen in the social network course). Most importantly, data science can provide answers simply to broaden our understanding of the world. The visualizations and insight we can provide from all the data around us can really help improve scientific research and deepen our knowledge about phenomena around us, like climate change (as I investigated in the second course). 
 
