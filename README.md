@@ -14,7 +14,7 @@ My work for each course can be found in the following repository. Each course co
 
 # Course 1 - Introduction to Data Science in Python: 
 
-	This course dived into fundamental Python libraries to clean and manipulate data as a data scientist. The course began with an introduction to basic techniques, including lambdas and list comprehensions, reading and writing csv files, and querying data frames. Python’s NumPy and Pandas libraries were heavily used in this course, in addition to Python’s Datetime and SciPy libraries. I also learned about handy functions, like Map and Lambda, in addition to list comprehension. 
+This course dived into fundamental Python libraries to clean and manipulate data as a data scientist. The course began with an introduction to basic techniques, including lambdas and list comprehensions, reading and writing csv files, and querying data frames. Python’s NumPy and Pandas libraries were heavily used in this course, in addition to Python’s Datetime and SciPy libraries. I also learned about handy functions, like Map and Lambda, in addition to list comprehension. 
 
 ## *Course 1 Assignments*
 
@@ -35,8 +35,8 @@ This final project combined all of the basic Python skills into one project, whe
 
 # Course 2 - Applied Plotting, Charting & Data Representation in Python:
 
-	This course focused on data visualization in Python, using the Matplotlib library. The course began with an introduction to Alberto Cairo’s Graphic Lies, Misleading Visuals. From this reading, I learned about how to create truthful visuals that do not distort a viewers’ perspective of the data.  I also discovered how our biases can distort the data we present to others, including displaying excess or hiding data. To avoid this, I was encouraged to make simple visuals without “chart junk,” as Cairo phrases it, and to only display relevant data so the viewer can understand the graphic without being distracted by superfluous details. 
-	With these principles in mind, the remainder of the course centered on plotting libraries - Matplotlib and Seaborn. 
+This course focused on data visualization in Python, using the Matplotlib library. The course began with an introduction to Alberto Cairo’s Graphic Lies, Misleading Visuals. From this reading, I learned about how to create truthful visuals that do not distort a viewers’ perspective of the data.  I also discovered how our biases can distort the data we present to others, including displaying excess or hiding data. To avoid this, I was encouraged to make simple visuals without “chart junk,” as Cairo phrases it, and to only display relevant data so the viewer can understand the graphic without being distracted by superfluous details. 
+With these principles in mind, the remainder of the course centered on plotting libraries - Matplotlib and Seaborn. 
 
 ## *Course 2 Assignments*
 
@@ -68,7 +68,7 @@ This project was definitely one of the hardest assignments I faced throughout th
 
 # Course 3 - Applied Machine Learning in Python:
 
-	After completing Python basics into cleaning and visualizing data, this third course focused on a new way to analyze data: machine learning. Using the Scikit-learn library, the course began with an introduction to supervised vs. unsupervised learning, before exploring basic ML classifiers. The course introduced classifiers, such as k-nearest neighbor (KNN),  Support Vector Machines (SVM), and Decision Trees. Next, the course explored optimizing model performance and using difference evaluation metrics to assess a classifier’s performance, before concluding with a final project.
+After completing Python basics into cleaning and visualizing data, this third course focused on a new way to analyze data: machine learning. Using the Scikit-learn library, the course began with an introduction to supervised vs. unsupervised learning, before exploring basic ML classifiers. The course introduced classifiers, such as k-nearest neighbor (KNN),  Support Vector Machines (SVM), and Decision Trees. Next, the course explored optimizing model performance and using difference evaluation metrics to assess a classifier’s performance, before concluding with a final project.
 
 ## *Course 3 Assignments*
 
@@ -88,7 +88,7 @@ Final Project - Understanding and Predicting Property Maintenance Fines: As the 
 
 # Course 4 - Applied Text Mining in Python:
 
-	This course concentrated on working with raw text in Python, using regular expressions (RegEx) and the NLTK library to perform Natural Language Processing (NLP). While textual data is notoriously messy, this course provided me with a strong foundation to tackle text mining. I learned how to tokenize raw text, extract meaningful information - including parts of speech and topic distribution, and even employ machine learning techniques to build classifiers and spelling recommendation systems. I also learned how to clean data, including removing stop-words, lemmatization, and stemming words with similar word derivations, in order to build robust, complex text models.
+This course concentrated on working with raw text in Python, using regular expressions (RegEx) and the NLTK library to perform Natural Language Processing (NLP). While textual data is notoriously messy, this course provided me with a strong foundation to tackle text mining. I learned how to tokenize raw text, extract meaningful information - including parts of speech and topic distribution, and even employ machine learning techniques to build classifiers and spelling recommendation systems. I also learned how to clean data, including removing stop-words, lemmatization, and stemming words with similar word derivations, in order to build robust, complex text models.
 
 ## *Course 4 Assignments*
 
@@ -112,7 +112,7 @@ Final Project - Document Similarity and Topic Modeling: For the course’s final
 
 # Course 5 - Applied Social Network Analysis in Python:
 
-	As the final component in the specialization, this course challenged me to use all of the fundamentals I learned in the previous courses to pursue social network analysis. Before diving into coding, this course taught me the fundamentals of social networks, including basic graphs and how to extract information from specific pairs of nodes and edges. For coding, Python’s NetworkX library was instrumental in creating and dissecting social networks. I learned how to analyze the connectivity of nodes, and even measure how pivotal specific nodes are within a social network. The course culminated with a machine learning project applied to employee salary and relationship social networks.
+As the final component in the specialization, this course challenged me to use all of the fundamentals I learned in the previous courses to pursue social network analysis. Before diving into coding, this course taught me the fundamentals of social networks, including basic graphs and how to extract information from specific pairs of nodes and edges. For coding, Python’s NetworkX library was instrumental in creating and dissecting social networks. I learned how to analyze the connectivity of nodes, and even measure how pivotal specific nodes are within a social network. The course culminated with a machine learning project applied to employee salary and relationship social networks.
 
 ## *Course 5 Assignments*
 
