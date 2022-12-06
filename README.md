@@ -1,4 +1,4 @@
-The following repository is a collection of my work for the *Applied Data Science with Python* specialization, offered by the University of Michigan on Coursera. This specialization has been a thorough guide on how to clean, manipulate, and visualize data in Python and even provided a thorough background for machine learning concepts and applications. This specialization consisted of the following five courses:
+The following repositor is a collection of my work for the *Applied Data Science with Python* specialization, offered by the University of Michigan on Coursera. This specialization has been a thorough guide on how to clean, manipulate, and visualize data in Python and even provided a thorough background for machine learning concepts and applications. This specialization consisted of the following five courses:
 
 <br />
 
