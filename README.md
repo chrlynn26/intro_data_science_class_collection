@@ -1,12 +1,12 @@
-The following repository is a collection of my work for the *Applied Data Science with Python* specialization, offered by the University of Michigan on Coursera. This specialization has been a thorough guide on how to clean, manipulate, and visualize data in Python and even provided a thorough background for machine learning concepts and applications. This specialization consisted of the following five courses:
+The following repository is a collection of my work for the *Applied Data Science* specialization with Python, offered by the University of Michigan on Coursera. This specialization has been a thorough guide on how to clean, manipulate, and visualize data in Python and even provided a thorough background for machine learning concepts and applications. This specialization consisted of the following five courses:
 
 <br />
 
-* **Introduction to Data Science in Python**
-* **Applied Plotting, Charting & Data Representation in Python**
-* **Applied Machine Learning in Python**
-* **Applied Text Mining in Python**
-* **Applied Social Network Analysis in Python**
+* **Introduction to Data Science**
+* **Applied Plotting, Charting & Data Representation**
+* **Applied Machine Learning**
+* **Applied Text Mining**
+* **Applied Social Network Analysis**
 
 <br />
 
@@ -20,7 +20,7 @@ My work for each course can be found in the following repository. Each course co
 
 <br /> 
 
-# Course 1 - Introduction to Data Science in Python: 
+# Course 1 - Introduction to Data Science: 
 
 This course dived into fundamental Python libraries to clean and manipulate data as a data scientist. The course began with an introduction to basic techniques, including lambdas and list comprehensions, reading and writing csv files, and querying data frames. Python’s NumPy and Pandas libraries were heavily used in this course, in addition to Python’s Datetime and SciPy libraries. I also learned about handy functions, like Map and Lambda, in addition to list comprehension. 
 
@@ -42,7 +42,7 @@ This final project combined all of the basic Python skills into one project, whe
 
 <br />
 
-# Course 2 - Applied Plotting, Charting & Data Representation in Python:
+# Course 2 - Applied Plotting, Charting & Data Representation:
 
 This course focused on data visualization in Python, using the Matplotlib library. The course began with an introduction to Alberto Cairo’s Graphic Lies, Misleading Visuals. From this reading, I learned about how to create truthful visuals that do not distort a viewers’ perspective of the data.  I also discovered how our biases can distort the data we present to others, including displaying excess or hiding data. To avoid this, I was encouraged to make simple visuals without “chart junk,” as Cairo phrases it, and to only display relevant data so the viewer can understand the graphic without being distracted by superfluous details. 
 
@@ -81,7 +81,7 @@ This project was definitely one of the hardest assignments I faced throughout th
 
 <br />
 
-# Course 3 - Applied Machine Learning in Python:
+# Course 3 - Applied Machine Learning:
 
 After completing Python basics into cleaning and visualizing data, this third course focused on a new way to analyze data: machine learning. Using the Scikit-learn library, the course began with an introduction to supervised vs. unsupervised learning, before exploring basic ML classifiers. The course introduced classifiers, such as k-nearest neighbor (KNN),  Support Vector Machines (SVM), and Decision Trees. Next, the course explored optimizing model performance and using difference evaluation metrics to assess a classifier’s performance, before concluding with a final project.
 
@@ -102,7 +102,7 @@ Final Project - Understanding and Predicting Property Maintenance Fines: As the 
 
 <br />
 
-# Course 4 - Applied Text Mining in Python:
+# Course 4 - Applied Text Mining:
 
 This course concentrated on working with raw text in Python, using regular expressions (RegEx) and the NLTK library to perform Natural Language Processing (NLP). While textual data is notoriously messy, this course provided me with a strong foundation to tackle text mining. I learned how to tokenize raw text, extract meaningful information - including parts of speech and topic distribution, and even employ machine learning techniques to build classifiers and spelling recommendation systems. I also learned how to clean data, including removing stop-words, lemmatization, and stemming words with similar word derivations, in order to build robust, complex text models.
 
@@ -127,7 +127,7 @@ Final Project - Document Similarity and Topic Modeling: For the course’s final
 
 <br />
 
-# Course 5 - Applied Social Network Analysis in Python:
+# Course 5 - Applied Social Network Analysis:
 
 As the final component in the specialization, this course challenged me to use all of the fundamentals I learned in the previous courses to pursue social network analysis. Before diving into coding, this course taught me the fundamentals of social networks, including basic graphs and how to extract information from specific pairs of nodes and edges. For coding, Python’s NetworkX library was instrumental in creating and dissecting social networks. I learned how to analyze the connectivity of nodes, and even measure how pivotal specific nodes are within a social network. The course culminated with a machine learning project applied to employee salary and relationship social networks.
 
